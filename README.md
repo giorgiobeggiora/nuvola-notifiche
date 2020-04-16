@@ -2,7 +2,7 @@
 
 App non ufficiale open-source che estende le funzionalità del registro elettronico Nuvola di Madisoft.it
 
-Codice sorgente: https://github.com/giorgiobeggiora/nuvola-notifiche
+Codice sorgente: [https://github.com/giorgiobeggiora/nuvola-notifiche]
 
 ## Funzionalità
 
