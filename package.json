@@ -1,0 +1,32 @@
+{
+  "name": "nuvola-notifiche",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "",
+  "main": "./lib/app.js",
+  "scripts": {
+    "start": "eve start",
+    "dist": "eve build dist",
+    "pub": "eve build pub",
+    "translate": "eve translate interface",
+    "translate-watch": "eve translate watch",
+    "translate-update": "eve l10ns update",
+    "translate-compile": "eve l10ns compile"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-eve": "^2.5.8"
+  },
+  "browserify-shim": {},
+  "eve-language": "es6",
+  "eve-version": "2.5.8",
+  "eve-babel-plugins": {
+    "builtin-extend": {
+      "globals": [
+        "Error"
+      ],
+      "approximate": false
+    }
+  }
+}

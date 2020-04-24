@@ -1,0 +1,21 @@
+
+// Settings
+
+@import 'settings';
+
+// Font
+// @import url("../fonts/roboto.css");
+// @import url("../fonts/robotoslab.css");
+// @import url("../fonts/robotocondensed.css");
+
+// Vendor
+// @import 'bower_components/backbone.uikit/styles/style.scss';
+@import 'vendor/normalize';
+@import 'vendor/grid';
+
+// Animations
+// @import 'animations/fadeOutDown';
+
+// Partials
+// @import 'partials/base';
+@import 'partials/home';

@@ -1,0 +1,4 @@
+{
+    "env": "production",
+	"DEFAULT_LOCALE": "it"
+}

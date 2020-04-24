@@ -1,0 +1,28 @@
+{
+  "defaultProject": "nuvola-notifiche",
+  "projects": {
+    "nuvola-notifiche": {
+      "timezones": [
+        "Europe/Rome"
+      ],
+      "currencies": [
+        "EUR"
+      ],
+      "interface": {
+        "autoOpen": true,
+        "port": 3001
+      },
+      "languages": {
+        "it": "Italiano"
+      },
+      "defaultLanguage": "it",
+      "programmingLanguage": "javascript",
+      "store": "localizations//",
+      "output": "localizations//output",
+      "source": [
+		  "lib/**",
+		  "templates/**"
+	  ]
+    }
+  }
+}
