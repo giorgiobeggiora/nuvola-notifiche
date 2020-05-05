@@ -1,5 +1,5 @@
 [
-  {"files":["lib/utils/ajax.js"],"id":"jBRXK6xnS7","key":"Unknonwn error","new":true,"timestamp":"2020-04-23T08:44:44.817Z","value":"","variables":[]},
-  {"files":["lib/utils/ajax.js"],"id":"BbqaKnBLSo","key":"Internet disconnected","new":true,"timestamp":"2020-04-23T08:44:44.817Z","value":"","variables":[]},
-  {"files":["lib/views/home/HomePage.js"],"id":"q4RXok6eF8","key":"HOME_PAGE->TITLE","new":true,"timestamp":"2020-04-23T08:44:44.817Z","value":"","variables":[]}
+  {"files":["lib/views/home/HomePage.js"],"id":"45nrEk9eIp","key":"HOME_PAGE->TITLE","new":false,"timestamp":"2020-05-04T21:12:56.223Z","value":"","variables":[]},
+  {"files":["lib/utils/ajax.js"],"id":"jBRXK6xnS7","key":"Unknonwn error","new":false,"timestamp":"2020-04-23T08:44:44.817Z","value":"","variables":[]},
+  {"files":["lib/utils/ajax.js"],"id":"BbqaKnBLSo","key":"Internet disconnected","new":false,"timestamp":"2020-04-23T08:44:44.817Z","value":"","variables":[]}
 ]

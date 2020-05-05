@@ -15,7 +15,23 @@
     },
     "cordova-plugin-file": {
       "PACKAGE_NAME": "it.nuvolanotifiche.app"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "it.nuvolanotifiche.app"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "it.nuvolanotifiche.app"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "it.nuvolanotifiche.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "it.nuvolanotifiche.app"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "it.nuvolanotifiche.app"
+    }
+  }
 }
